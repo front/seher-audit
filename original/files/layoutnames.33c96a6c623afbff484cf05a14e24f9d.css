@@ -1,0 +1,16 @@
+
+@media only screen and (max-width:320px) {
+  html { font-family: 'smartphone_portrait';}
+}
+@media only screen and (min-width:321px) and (max-width:480px) {
+  html { font-family: 'smartphone_landscape';}
+}
+@media only screen and (min-width:481px) and (max-width:768px) {
+  html { font-family: 'tablet_portrait';}
+}
+@media only screen and (min-width:769px) and (max-width:1024px) {
+  html { font-family: 'tablet_landscape';}
+}
+@media only screen and (min-width:1025px) {
+  html { font-family: 'desktop';}
+}

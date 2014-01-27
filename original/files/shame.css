@@ -1,0 +1,9 @@
+@media (max-width:480px) {
+ article #area-netboard {
+   float:left !important;
+ }
+}
+
+.imgfly-placeholder[src $= "png"]{
+  height: 0px !important;
+}
